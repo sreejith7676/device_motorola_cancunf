@@ -134,23 +134,6 @@
          This array should be equal in size to config_screenBrightnessBacklight. -->
     <array name="config_screenBrightnessBacklight">
         <item>2</item>
-        <item>6</item>
-        <item>11</item>
-        <item>28</item>
-        <item>40</item>
-        <item>48</item>
-        <item>62</item>
-        <item>74</item>
-        <item>85</item>
-        <item>102</item>
-        <item>128</item>
-        <item>153</item>
-        <item>170</item>
-        <item>179</item>
-        <item>187</item>
-        <item>198</item>
-        <item>215</item>
-        <item>238</item>
         <item>255</item>
     </array>
 
@@ -163,23 +146,6 @@
          This array should be equal in size to config_screenBrightnessBacklight -->
     <array name="config_screenBrightnessNits">
         <item>3</item>
-        <item>10</item>
-        <item>20</item>
-        <item>50</item>
-        <item>70</item>
-        <item>85</item>
-        <item>110</item>
-        <item>130</item>
-        <item>150</item>
-        <item>180</item>
-        <item>225</item>
-        <item>270</item>
-        <item>300</item>
-        <item>315</item>
-        <item>330</item>
-        <item>350</item>
-        <item>380</item>
-        <item>420</item>
         <item>450</item>
     </array>
 
