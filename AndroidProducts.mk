@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_cancunf.mk
+    $(LOCAL_DIR)/clover_cancunf.mk
