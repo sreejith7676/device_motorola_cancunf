@@ -297,6 +297,15 @@ PRODUCT_PACKAGES += \
     RegulatoryOverlayXT2431-1 \
     RegulatoryOverlayXT2431-2 \
     RegulatoryOverlayXT2431-3
+    
+PRODUCT_PACKAGES += \
+    SettingsOverlayXT2343-1 \
+    SettingsOverlayXT2343-2 \
+    SettingsOverlayXT2343-4 \
+    SettingsOverlayXT2343-5 \
+    SettingsOverlayXT2431-1 \
+    SettingsOverlayXT2431-2 \
+    SettingsOverlayXT2431-3
 
 # Permissions
 PRODUCT_COPY_FILES += \

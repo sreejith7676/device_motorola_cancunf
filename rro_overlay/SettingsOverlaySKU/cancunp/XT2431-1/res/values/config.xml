@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2019 The Android Open Source Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="config_infinity_soc">Mediatek Dimensity 7025 (6 nm)</string>
+    <string name="config_infinity_battery">6000mAh, 30W</string>
+    <string name="config_infinity_display">6.5 FHD+ (2400x1080) 120Hz</string>
+    <string name="config_infinity_camera">50MP + 8MP (UW) + 16MP</string>
+    <string name="config_product_marketname">Moto G64 5G</string>
+</resources>
+

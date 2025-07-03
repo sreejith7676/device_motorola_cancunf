@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2019 The Android Open Source Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="config_infinity_soc">Mediatek Dimensity 7020 (6 nm)</string>
+    <string name="config_infinity_battery">5000mAh, 15W</string>
+    <string name="config_infinity_display">6.5 FHD+ (2400x1080) 120Hz</string>
+    <string name="config_infinity_camera">50MP + 2MP (macro) + 16MP</string>
+    <string name="config_product_marketname">Moto G54 5G</string>
+</resources>
+
